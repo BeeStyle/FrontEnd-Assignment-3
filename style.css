@@ -1,0 +1,177 @@
+body {
+    margin: 0%;
+}
+
+.backgroundimg {
+    width: 100%;
+    height: 80%;
+    background-image: url(images/images/drew-coffman-1872.jpg);
+    background-position: center;
+}
+
+.front-of-backgroundimg {
+    text-align: center;
+    color: white;
+    font-size: xx-large;
+}
+
+.bakerysign {
+    float: left;
+    margin-left: 20%;
+    margin-top: 1%;
+}
+
+.topnav {
+    float: right;
+    margin-top: 2%;
+    padding-right: 20%;
+}
+
+.topnav a {
+    color: white;
+    font-size: large;
+    margin: 10px;
+    text-decoration: none;
+}
+
+.topnav a.active {
+    color: tan;
+}
+
+.clr {
+    clear: both;
+}
+
+.Breadandknife {
+    float: Left;
+    margin-left: 20%;
+}
+
+.textnexttobread {
+    float: right;
+    width: 25%;
+    padding-top: 2%;
+    padding-right: 25%;
+
+}
+
+.third {
+    padding: 2% 20%;
+    background-color: grey;
+    height: 50%;
+}
+
+.OurLocation {
+    margin-top: 8%;
+    float: left;
+    width: 45%;
+}
+
+.OurLocPicture {
+    float: right;
+    width: 50%;
+}
+
+.fourth {
+    padding: 2% 15%;
+    height: 60%;
+    text-align: center;
+}
+
+.FourthLeft {
+    float: left;
+    width: 30%;
+}
+
+.Fourthcenter {
+    margin: 0 5%;
+    float: left;
+    width: 30%;
+}
+
+.Fourthright {
+    float: left;
+    width: 30%;
+}
+
+.fourth img {
+    width: 100%;
+}
+
+.fifth {
+    padding: 2% 15%;
+    height: 50%;
+    background-color: grey;
+}
+
+.fifthleft {
+    margin-top: 5%;
+    width: 40%;
+    float: left;
+    text-align: justify;
+}
+
+.fifthright {
+    width: 40%;
+    float: right;
+}
+
+.Sixth {
+    padding: 2% 15%;
+    height: 35%;
+    background-color: rgb(75, 75, 75);
+}
+
+.sixthleft {
+    float: left;
+    width: 23%;
+    margin: 1%;
+}
+
+.sixthleft2 {
+    float: left;
+    width: 23%;
+    margin: 1%;
+}
+
+.sixthleft3 {
+    float: left;
+    width: 23%;
+    margin: 1%;
+}
+
+.sixthleft4 {
+    float: left;
+    width: 23%;
+    margin: 1%;
+}
+
+.bullet {
+    list-style-type: none;
+    color: bisque;
+    margin-left: -40px;
+}
+
+.bullet li::before {
+    Content: "\f105";
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    margin-right: 10px;
+}
+
+.ulbackground {
+    background-image: url(images/images/contact-details-map.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.seventh {
+    height: 35%;
+    text-align: center;
+    background-color: rgb(49, 49, 49);
+}
+
+.seventh a {
+    margin: 10px;
+}
